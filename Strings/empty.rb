@@ -1,0 +1,1 @@
+string = '' # alternatively can string = String.new
